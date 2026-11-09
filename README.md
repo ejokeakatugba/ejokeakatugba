@@ -14,5 +14,11 @@ PhD researcher in Analytical Chemistry developing mass spectrometry and computat
 Python • MATLAB • High-Resolution Mass Spectrometry • Orbitrap MS •
 Data Analysis • Image Processing
 
-### 📫 Connect
-LinkedIn: [www.linkedin.com/in/ejoke-akatugba-57617b201]
+### 📫 Connect With Me
+
+I'm interested in research collaborations involving mass spectrometry, computational data analysis, chemical imaging, and polymer characterization.
+
+- 📚 **Google Scholar:** [View My Publications](https://scholar.google.com/citations?user=ZBWWA64AAAAJ)
+- 💻 **Research Software:** [Polymer MS Analysis](https://github.com/ejokeakatugba/polymer_ms_analysis)
+- 🔗 **LinkedIn:** [www.linkedin.com/in/ejoke-akatugba-57617b201]
+- ✉️ **Email:** [ejakatug@ttu.edu]
